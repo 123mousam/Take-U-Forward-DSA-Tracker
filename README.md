@@ -1,4 +1,3 @@
-# Take-U-Forward-DSA-Tracker
 # Take U Forward - DSA Progress Tracker 🚀
 
 Tracking my journey through the Take U Forward A2Z / SDE Sheet. 
