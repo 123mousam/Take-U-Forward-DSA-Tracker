@@ -1,6 +1,6 @@
-# TakeUForward DSA Tracker 🚀
+# 🚀 Striver's A2Z DSA Tracker
 
-A personal progress tracker for the TakeUForward (Striver's A2Z) Data Structures and Algorithms course. This repository contains my solutions and progress as I prepare for upcoming recruitment drives and technical interviews.
+A personal progress tracker for the TakeUForward (Striver's A2Z) Data Structures and Algorithms course. This repository contains my solutions in C++ and Python as I prepare for the 2026 recruitment drives.
 
 ## 📊 Progress Summary
 - **Sorting I & II:** 0 / 7
@@ -12,78 +12,58 @@ A personal progress tracker for the TakeUForward (Striver's A2Z) Data Structures
 
 ## 📚 Problem Categories
 
-### 1. Sorting - I
-| Status | Problem | Difficulty | Practice Link |
+### 1. Sorting Algorithms
+| Status | Problem | Difficulty | Practice Links |
 | :---: | :--- | :---: | :--- |
-| [ ] | Selection Sort | 🟢 Easy | [Sort an Array (LC 912)](https://leetcode.com/problems/sort-an-array/) |
-| [ ] | Bubble Sort | 🟢 Easy | [Sort an Array (LC 912)](https://leetcode.com/problems/sort-an-array/) |
-| [ ] | Insertion Sorting | 🟢 Easy | [Sort an Array (LC 912)](https://leetcode.com/problems/sort-an-array/) |
-
-### 2. Sorting - II
-| Status | Problem | Difficulty | Practice Link |
-| :---: | :--- | :---: | :--- |
-| [ ] | Merge Sorting | 🟡 Medium | [Sort an Array (LC 912)](https://leetcode.com/problems/sort-an-array/) |
-| [ ] | Recursive Bubble Sort | 🟢 Easy | GFG / Coding Ninjas |
-| [ ] | Recursive Insertion Sort | 🟢 Easy | GFG / Coding Ninjas |
-| [ ] | Quick Sorting | 🟢 Easy | [Sort an Array (LC 912)](https://leetcode.com/problems/sort-an-array/) |
-
-> **Note:** LeetCode doesn't have individual problems for basic sorting algorithms, but LC 912 is the perfect place to test your sorting logic to ensure it avoids `Time Limit Exceeded (TLE)`.
+| [ ] | Selection Sort | 🟢 Easy | [GFG](https://www.geeksforgeeks.org/problems/selection-sort/1) \| [CN](https://www.naukri.com/code360/problems/selection-sort_981162) |
+| [ ] | Bubble Sort | 🟢 Easy | [GFG](https://www.geeksforgeeks.org/problems/bubble-sort/1) \| [CN](https://www.naukri.com/code360/problems/bubble-sort_980524) |
+| [ ] | Insertion Sort | 🟢 Easy | [GFG](https://www.geeksforgeeks.org/problems/insertion-sort/1) \| [CN](https://www.naukri.com/code360/problems/insertion-sort_3155179) |
+| [ ] | Merge Sort | 🟡 Medium | [LC](https://leetcode.com/problems/sort-an-array/) \| [GFG](https://www.geeksforgeeks.org/problems/merge-sort/1) |
+| [ ] | Quick Sort | 🟡 Medium | [LC](https://leetcode.com/problems/sort-an-array/) \| [GFG](https://www.geeksforgeeks.org/problems/quick-sort/1) |
 
 ---
 
-### 3. Arrays [Easy -> Medium -> Hard]
+## 📦 Step 3: Solve Problems on Arrays
 
-#### Step 3.1: Easy
-| Status | Problem | Difficulty | Practice Link |
+### 3.1 Arrays - Easy
+| Status | Problem | Difficulty | Practice Links |
 | :---: | :--- | :---: | :--- |
-| [ ] | Largest Element | 🟢 Easy | GFG / Coding Ninjas |
-| [ ] | Second Largest Element | 🟢 Easy | GFG / Coding Ninjas |
-| [ ] | Check if the Array is Sorted II | 🟢 Easy | [🔗 LeetCode 1752](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) |
-| [ ] | Remove duplicates from Sorted array | 🟢 Easy | [🔗 LeetCode 26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
-| [ ] | Left Rotate Array by One | 🟢 Easy | GFG / Coding Ninjas |
-| [ ] | Left Rotate Array by K Places | 🟢 Easy | [🔗 LeetCode 189](https://leetcode.com/problems/rotate-array/) |
-| [ ] | Move Zeros to End | 🟢 Easy | [🔗 LeetCode 283](https://leetcode.com/problems/move-zeroes/) |
-| [ ] | Linear Search | 🟢 Easy | GFG / Coding Ninjas |
-| [ ] | Union of two sorted arrays | 🟢 Easy | GFG / Coding Ninjas |
-| [ ] | Find missing number | 🟢 Easy | [🔗 LeetCode 268](https://leetcode.com/problems/missing-number/) |
-| [ ] | Maximum Consecutive Ones | 🟢 Easy | [🔗 LeetCode 485](https://leetcode.com/problems/max-consecutive-ones/) |
-| [ ] | Find the number that appears once, others twice | 🟡 Medium | [🔗 LeetCode 136](https://leetcode.com/problems/single-number/) |
-| [ ] | Longest subarray with given sum K (positives) | 🟡 Medium | GFG / Coding Ninjas |
-| [ ] | Longest subarray with sum K | 🟡 Medium | GFG / Coding Ninjas |
+| [ ] | Largest Element | 🟢 Easy | [GFG](https://www.geeksforgeeks.org/problems/largest-element-in-array1302/1) \| [CN](https://www.naukri.com/code360/problems/largest-element-in-the-array-canvas_1215987) |
+| [ ] | Second Largest | 🟢 Easy | [GFG](https://www.geeksforgeeks.org/problems/second-largest3735/1) \| [CN](https://www.naukri.com/code360/problems/ninja-and-the-second-largest-element_625868) |
+| [ ] | Check if Sorted/Rotated | 🟢 Easy | [LC](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) \| [CN](https://www.naukri.com/code360/problems/ninja-and-the-sorted-check_630514) |
+| [ ] | Remove Duplicates | 🟢 Easy | [LC](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) \| [GFG](https://www.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1) |
+| [ ] | Left Rotate by One | 🟢 Easy | [CN](https://www.naukri.com/code360/problems/left-rotate-an-array-by-one_5026278) |
+| [ ] | Left Rotate by K | 🟢 Easy | [LC](https://leetcode.com/problems/rotate-array/) \| [GFG](https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1) |
+| [ ] | Move Zeros to End | 🟢 Easy | [LC](https://leetcode.com/problems/move-zeroes/) \| [GFG](https://www.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751/1) |
+| [ ] | Missing Number | 🟢 Easy | [LC](https://leetcode.com/problems/missing-number/) \| [GFG](https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1) |
+| [ ] | Max Consecutive Ones | 🟢 Easy | [LC](https://leetcode.com/problems/max-consecutive-ones/) \| [GFG](https://www.geeksforgeeks.org/problems/maximum-consecutive-ones/1) |
+| [ ] | Single Number | 🟡 Medium | [LC](https://leetcode.com/problems/single-number/) \| [CN](https://www.naukri.com/code360/problems/find-the-single-element_6680465) |
 
-#### Step 3.2: Medium
-| Status | Problem | Difficulty | Practice Link |
+### 3.2 Arrays - Medium
+| Status | Problem | Difficulty | Practice Links |
 | :---: | :--- | :---: | :--- |
-| [ ] | Two Sum | 🟢 Easy | [🔗 LeetCode 1](https://leetcode.com/problems/two-sum/) |
-| [ ] | Sort an array of 0's 1's and 2's | 🟡 Medium | [🔗 LeetCode 75](https://leetcode.com/problems/sort-colors/) |
-| [ ] | Majority Element-I | 🟢 Easy | [🔗 LeetCode 169](https://leetcode.com/problems/majority-element/) |
-| [ ] | Kadane's Algorithm, maximum subarray sum | 🟡 Medium | [🔗 LeetCode 53](https://leetcode.com/problems/maximum-subarray/) |
-| [ ] | Print subarray with maximum subarray sum | 🟡 Medium | Extension of LC 53 |
-| [ ] | Stock Buy and Sell | 🟡 Medium | [🔗 LeetCode 121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
-| [ ] | Rearrange array elements by sign | 🟡 Medium | [🔗 LeetCode 2149](https://leetcode.com/problems/rearrange-array-elements-by-sign/) |
-| [ ] | Next Permutation | 🟡 Medium | [🔗 LeetCode 31](https://leetcode.com/problems/next-permutation/) |
-| [ ] | Leaders in an Array | 🟡 Medium | GFG / Coding Ninjas |
-| [ ] | Longest Consecutive Sequence in an Array | 🟡 Medium | [🔗 LeetCode 128](https://leetcode.com/problems/longest-consecutive-sequence/) |
-| [ ] | Set Matrix Zeroes | 🟡 Medium | [🔗 LeetCode 73](https://leetcode.com/problems/set-matrix-zeroes/) |
-| [ ] | Rotate matrix by 90 degrees | 🟡 Medium | [🔗 LeetCode 48](https://leetcode.com/problems/rotate-image/) |
-| [ ] | Print the matrix in spiral manner | 🟡 Medium | [🔗 LeetCode 54](https://leetcode.com/problems/spiral-matrix/) |
-| [ ] | Count subarrays with given sum | 🟡 Medium | [🔗 LeetCode 560](https://leetcode.com/problems/subarray-sum-equals-k/) |
+| [ ] | Two Sum | 🟢 Easy | [LC](https://leetcode.com/problems/two-sum/) \| [GFG](https://www.geeksforgeeks.org/problems/key-pair1554/1) |
+| [ ] | Sort 0s, 1s, 2s | 🟡 Medium | [LC](https://leetcode.com/problems/sort-colors/) \| [GFG](https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1) |
+| [ ] | Majority Element (>n/2) | 🟡 Medium | [LC](https://leetcode.com/problems/majority-element/) \| [GFG](https://www.geeksforgeeks.org/problems/majority-element-1587115620/1) |
+| [ ] | Kadane's Algorithm | 🟡 Medium | [LC](https://leetcode.com/problems/maximum-subarray/) \| [GFG](https://www.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1) |
+| [ ] | Stock Buy and Sell | 🟢 Easy | [LC](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) \| [GFG](https://www.geeksforgeeks.org/problems/stock-buy-and-sell-1587115621/1) |
+| [ ] | Next Permutation | 🟡 Medium | [LC](https://leetcode.com/problems/next-permutation/) \| [GFG](https://www.geeksforgeeks.org/problems/next-permutation5226/1) |
+| [ ] | Leaders in an Array | 🟡 Medium | [GFG](https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1) \| [CN](https://www.naukri.com/code360/problems/superior-elements_6783446) |
+| [ ] | Set Matrix Zeroes | 🟡 Medium | [LC](https://leetcode.com/problems/set-matrix-zeroes/) \| [GFG](https://www.geeksforgeeks.org/problems/set-matrix-zeroes/1) |
+| [ ] | Rotate Matrix (90°) | 🟡 Medium | [LC](https://leetcode.com/problems/rotate-image/) \| [GFG](https://www.geeksforgeeks.org/problems/rotate-by-90-degree-1587115621/1) |
+| [ ] | Spiral Matrix | 🟡 Medium | [LC](https://leetcode.com/problems/spiral-matrix/) \| [GFG](https://www.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1) |
 
-#### Step 3.3: Hard
-| Status | Problem | Difficulty | Practice Link |
+### 3.3 Arrays - Hard
+| Status | Problem | Difficulty | Practice Links |
 | :---: | :--- | :---: | :--- |
-| [ ] | Pascal's Triangle I | 🟢 Easy | [🔗 LeetCode 118](https://leetcode.com/problems/pascals-triangle/) |
-| [ ] | Majority Element-II | 🔴 Hard | [🔗 LeetCode 229](https://leetcode.com/problems/majority-element-ii/) |
-| [ ] | 3 Sum | 🟡 Medium | [🔗 LeetCode 15](https://leetcode.com/problems/3sum/) |
-| [ ] | 4 Sum | 🟡 Medium | [🔗 LeetCode 18](https://leetcode.com/problems/4sum/) |
-| [ ] | Largest Subarray with Sum 0 | 🟡 Medium | GFG / Coding Ninjas |
-| [ ] | Count subarrays with given xor K | 🔴 Hard | InterviewBit / GFG |
-| [ ] | Merge Overlapping Subintervals | 🟡 Medium | [🔗 LeetCode 56](https://leetcode.com/problems/merge-intervals/) |
-| [ ] | Merge two sorted arrays without extra space | 🟡 Medium | [🔗 LeetCode 88](https://leetcode.com/problems/merge-sorted-array/) |
-| [ ] | Find the repeating and missing number | 🔴 Hard | [🔗 LeetCode 645](https://leetcode.com/problems/set-mismatch/) |
-| [ ] | Count Inversions | 🔴 Hard | GFG / Coding Ninjas |
-| [ ] | Reverse Pairs | 🔴 Hard | [🔗 LeetCode 493](https://leetcode.com/problems/reverse-pairs/) |
-| [ ] | Maximum Product Subarray in an Array | 🔴 Hard | [🔗 LeetCode 152](https://leetcode.com/problems/maximum-product-subarray/) |
+| [ ] | Pascal's Triangle | 🟢 Easy | [LC](https://leetcode.com/problems/pascals-triangle/) \| [GFG](https://www.geeksforgeeks.org/problems/pascal-triangle0652/1) |
+| [ ] | Majority Element (>n/3) | 🟡 Medium | [LC](https://leetcode.com/problems/majority-element-ii/) \| [GFG](https://www.geeksforgeeks.org/problems/majority-vote/1) |
+| [ ] | 3 Sum | 🟡 Medium | [LC](https://leetcode.com/problems/3sum/) \| [GFG](https://www.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621/1) |
+| [ ] | 4 Sum | 🟡 Medium | [LC](https://leetcode.com/problems/4sum/) \| [GFG](https://www.geeksforgeeks.org/problems/find-all-four-sum-numbers1732/1) |
+| [ ] | Merge Intervals | 🟡 Medium | [LC](https://leetcode.com/problems/merge-intervals/) \| [GFG](https://www.geeksforgeeks.org/problems/overlapping-intervals--170633/1) |
+| [ ] | Find Missing & Repeating | 🔴 Hard | [LC](https://leetcode.com/problems/set-mismatch/) \| [GFG](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1) |
+| [ ] | Reverse Pairs | 🔴 Hard | [LC](https://leetcode.com/problems/reverse-pairs/) \| [GFG](https://www.geeksforgeeks.org/problems/reverse-pairs/1) |
+| [ ] | Max Product Subarray | 🔴 Hard | [LC](https://leetcode.com/problems/maximum-product-subarray/) \| [GFG](https://www.geeksforgeeks.org/problems/maximum-product-subarray3604/1) |
 
 ---
-*Tracker created to maintain consistency. Happy Coding!*
+*Happy Coding! ✨ Keep pushing those commits!*
